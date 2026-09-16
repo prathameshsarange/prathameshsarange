@@ -75,12 +75,12 @@
       srcset="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake-dark.svg"
     />
 
-    <source
+  <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake.svg"
     />
 
-    <img
+  <img
       src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake.svg"
       alt="Snake eating my contributions"
       width="100%">
