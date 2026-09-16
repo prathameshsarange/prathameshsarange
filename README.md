@@ -1,120 +1,79 @@
 <!-- Profile Header -->
 <div align="center">
 
-  <a href="https://github.com/prathameshsarange#gh-dark-mode-only">
-    <img
-      src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/dark.svg#gh-dark-mode-only"
-      alt="Prathamesh Sarange"
-    />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/dark.svg#gh-dark-mode-only"
+    alt="Prathamesh Sarange">
 
-  <a href="https://github.com/prathameshsarange#gh-light-mode-only">
-    <img
-      src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/light.svg#gh-light-mode-only"
-      alt="Prathamesh Sarange"
-    />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/light.svg#gh-light-mode-only"
+    alt="Prathamesh Sarange">
 
 </div>
 
-<br />
+<br><br>
 
-<!-- GitHub Streak -->
 <div align="center">
 
+  <!-- GitHub Streak -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=0A101F&stroke=38BDF8&ring=A78BFA&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&titleColor=38BDF8&card_width=1000"
-    />
+      srcset="https://streak-stats.demolab.com/?user=prathameshsarange&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE&amp;card_width=1180">
 
-  <source
+   <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=FFFFFF&stroke=0284C7&ring=7C3AED&fire=EA580C&currStreakLabel=0284C7&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0284C7&card_width=1000"
-    />
+      srcset="https://streak-stats.demolab.com/?user=prathamesh sarange&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=10B981&amp;currStreakLabel=0891B2&amp;sideLabels=475569&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=64748B&amp;titleColor=0891B2&amp;card_width=1180">
 
-  <img
-      src="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=FFFFFF&stroke=0284C7&ring=7C3AED&fire=EA580C&currStreakLabel=0284C7&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0284C7&card_width=1000"
-      alt="GitHub Streak"
+   <img
       width="100%"
-    />
+      src="https://streak-stats.demolab.com/?user=prathamesh sarange&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=10B981&amp;currStreakLabel=0891B2&amp;sideLabels=475569&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=64748B&amp;titleColor=0891B2&amp;card_width=1180"
+      alt="GitHub Streak">
   </picture>
 
-</div>
+  <br><br>
 
-<br />
+  <!-- GitHub Stats and Top Languages -->
+  <table>
+    <tr>
 
 <!-- GitHub Stats -->
-<div align="center">
+  <td width="50%" align="center">
 
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&hide_rank=true&hide_border=true&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&bg_color=0A101F"
-    />
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F">
 
   <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&hide_rank=true&hide_border=true&title_color=0284C7&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF"
-    />
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=0891B2&amp;icon_color=7C3AED&amp;text_color=475569&amp;bg_color=FFFFFF">
 
   <img
-      src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&hide_rank=true&hide_border=true&title_color=0284C7&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF"
-      alt="GitHub Stats"
-      width="49%"
-    />
-  </picture>
+            src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=0891B2&amp;icon_color=7C3AED&amp;text_color=475569&amp;bg_color=FFFFFF"
+            alt="GitHub Stats"
+            width="100%">
+        </picture>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0A101F"
-    />
-
+ </td>
+<!-- Top Languages -->
+      <td width="50%" align="center">
+<picture>
   <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&layout=compact&langs_count=8&hide_border=true&title_color=0284C7&text_color=475569&bg_color=FFFFFF"
-    />
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;bg_color=0A101F">
+<source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=0891B2&amp;text_color=475569&amp;bg_color=FFFFFF">
+<img
+            src="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=0891B2&amp;text_color=475569&amp;bg_color=FFFFFF"
+            alt="Top Languages"
+            width="100%">
+        </picture>
 
-  <img
-      src="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&layout=compact&langs_count=8&hide_border=true&title_color=0284C7&text_color=475569&bg_color=FFFFFF"
-      alt="Top Languages"
-      width="49%"
-    />
-  </picture>
+  </td>
 
-</div>
-
-<br />
-
-<!-- Total Contributions -->
-<div align="center">
-
-  **Total Contributions:** 0
-
-</div>
-
-<br />
-
-<!-- Snake Contribution Animation -->
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake-dark.svg"
-    />
-
-  <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake.svg"
-    />
-
-  <img
-      src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake.svg"
-      alt="Snake eating my contributions"
-      width="100%"
-    />
-  </picture>
+</tr>
+  </table>
 
 </div>
