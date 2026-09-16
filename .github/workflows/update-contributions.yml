@@ -1,0 +1,56 @@
+name: Update GitHub Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch contribution count
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          CONTRIBUTIONS=$(gh api graphql \
+            -f query='
+              query($login: String!) {
+                user(login: $login) {
+                  contributionsCollection {
+                    contributionCalendar {
+                      totalContributions
+                    }
+                  }
+                }
+              }' \
+            -f login="prathameshsarange" \
+            --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+
+          echo "Total Contributions: $CONTRIBUTIONS"
+
+          sed -i -E \
+            "s/(Total Contributions: )[0-9]+/\1$CONTRIBUTIONS/" \
+            README.md
+
+      - name: Commit updated contribution count
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || \
+            git commit -m "Update GitHub contribution count"
+
+          git push
