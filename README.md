@@ -18,8 +18,9 @@
 <br><br>
 
 <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <img width="49%"
-  src="https://github-readme-stats-five-sand-r5bfau3s8v.vercel.app/api?username=prathameshsarange&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F"
+  src="https://github-readme-stats-five-sand-r5bfau3s8v.vercel.app/api?username=prathameshsarange&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F"
   alt="GitHub Stats">
 <!-- Top Languages -->
 <img width="49%"
