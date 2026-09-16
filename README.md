@@ -37,8 +37,8 @@
       media="(prefers-color-scheme: light)"
       srcset="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=10B981&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0891B2"
     />
-<!-- Fallback -->
-    <img
+    <!-- Fallback -->
+  <img
       src="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true"
       alt="GitHub Streak"
       width="100%"
@@ -53,16 +53,16 @@
 
 <div align="center">
 
-  <!-- GitHub Stats: Dark Mode -->
+  <!-- Dark Mode Stats -->
   <a href="https://github.com/prathameshsarange#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"
+      src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&hide=commits,contribs&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"
       alt="GitHub Stats - Dark"
       width="49%"
     />
   </a>
 
-  <!-- Top Languages: Dark Mode -->
+  <!-- Dark Mode Top Languages -->
   <a href="https://github.com/prathameshsarange#gh-dark-mode-only">
     <img
       src="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F"
@@ -71,16 +71,16 @@
     />
   </a>
 
-  <!-- GitHub Stats: Light Mode -->
+  <!-- Light Mode Stats -->
   <a href="https://github.com/prathameshsarange#gh-light-mode-only">
     <img
-      src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF"
+      src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&hide=commits,contribs&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF"
       alt="GitHub Stats - Light"
       width="49%"
     />
   </a>
 
-  <!-- Top Languages: Light Mode -->
+  <!-- Light Mode Top Languages -->
   <a href="https://github.com/prathameshsarange#gh-light-mode-only">
     <img
       src="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=475569&bg_color=FFFFFF"
