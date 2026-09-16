@@ -68,8 +68,9 @@
       srcset="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake.svg"
     />
     <img
-      alt="Snake eating my contributions"
       src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake.svg"
+      alt="Snake eating my contributions"
+      width="100%"
     />
   </picture>
 </div>
