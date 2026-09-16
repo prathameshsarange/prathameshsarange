@@ -70,7 +70,7 @@
     <img
       src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake.svg"
       alt="Snake eating my contributions"
-      width="100%"
+      width="700"
     />
   </picture>
 </div>
