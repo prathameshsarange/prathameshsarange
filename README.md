@@ -1,17 +1,15 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/dark.svg">
+<!-- Profile Header -->
+<div align="center">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/light.svg">
+<img
+  src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/dark.svg#gh-dark-mode-only"
+  alt="Prathamesh Sarange">
 
-  <img
-    alt="Prathamesh Sarange"
-    src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/light.svg">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/light.svg#gh-light-mode-only"
+  alt="Prathamesh Sarange">
 
+</div>
 <br><br>
 <div align="center">
 
