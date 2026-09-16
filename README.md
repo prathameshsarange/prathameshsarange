@@ -87,9 +87,10 @@
 
   <h3>📊 Total GitHub Contributions</h3>
 
+  <div align="center">
   <img
-    src="https://github-contributions-api.deno.dev/prathameshsarange.svg"
-    alt="Prathamesh Sarange's GitHub Contributions"
+    src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/images/userstats.svg"
+    alt="Prathamesh Sarange GitHub Statistics"
     width="100%"
   />
 
