@@ -16,10 +16,20 @@
 <div align="center">
 
 <!-- GitHub Streak -->
-<img width="100%"
-  src="https://streak-stats.demolab.com/?user=prathameshsarange&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE&amp;card_width=1180"
-  alt="GitHub Streak">
-  <br><br>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=prathameshsarange&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE&amp;card_width=1180">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=prathameshsarange&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=10B981&amp;currStreakLabel=0891B2&amp;sideLabels=475569&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=64748B&amp;titleColor=0891B2&amp;card_width=1180">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=prathameshsarange&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=10B981&amp;currStreakLabel=0891B2&amp;sideLabels=475569&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=64748B&amp;titleColor=0891B2&amp;card_width=1180"
+    alt="GitHub Streak"
+    width="100%">
+</picture>
 
   <!-- GitHub Stats and Top Languages -->
   <table>
