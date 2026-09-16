@@ -1,13 +1,17 @@
 <!-- Profile Header -->
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/dark.svg#gh-dark-mode-only"
-    alt="Prathamesh Sarange">
+  <a href="https://github.com/prathameshsarange#gh-dark-mode-only">
+    <img
+      src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/dark.svg#gh-dark-mode-only"
+      alt="Prathamesh Sarange">
+  </a>
 
-  <img
-    src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/light.svg#gh-light-mode-only"
-    alt="Prathamesh Sarange">
+  <a href="https://github.com/prathameshsarange#gh-light-mode-only">
+    <img
+      src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/main/light.svg#gh-light-mode-only"
+      alt="Prathamesh Sarange">
+  </a>
 
 </div>
 
@@ -16,66 +20,42 @@
 <div align="center">
 
 <!-- GitHub Streak -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=prathameshsarange&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE&amp;card_width=1180">
+[![GitHub Streak - Dark](https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180#gh-dark-mode-only)](https://github.com/prathameshsarange#gh-dark-mode-only)
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=prathameshsarange&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=10B981&amp;currStreakLabel=0891B2&amp;sideLabels=475569&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=64748B&amp;titleColor=0891B2&amp;card_width=1180">
+[![GitHub Streak - Light](https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=10B981&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0891B2&card_width=1180#gh-light-mode-only)](https://github.com/prathameshsarange#gh-light-mode-only)
 
+<br>
+
+<!-- GitHub Stats and Top Languages -->
+
+<!-- Dark Mode -->
+<a href="https://github.com/prathameshsarange#gh-dark-mode-only">
   <img
-    src="https://streak-stats.demolab.com/?user=prathameshsarange&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=10B981&amp;currStreakLabel=0891B2&amp;sideLabels=475569&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=64748B&amp;titleColor=0891B2&amp;card_width=1180"
-    alt="GitHub Streak"
-    width="100%">
-</picture>
+    src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F#gh-dark-mode-only"
+    alt="GitHub Stats - Dark"
+    width="49%">
+</a>
 
-  <!-- GitHub Stats and Top Languages -->
-  <table>
-    <tr>
-
-  <!-- GitHub Stats -->
-  <td width="50%" align="center">
-
-  <picture>
-  <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F">
-
-  <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=0891B2&amp;icon_color=7C3AED&amp;text_color=475569&amp;bg_color=FFFFFF">
-
+<a href="https://github.com/prathameshsarange#gh-dark-mode-only">
   <img
-            src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=0891B2&amp;icon_color=7C3AED&amp;text_color=475569&amp;bg_color=FFFFFF"
-            alt="GitHub Stats"
-            width="100%">
-        </picture>
+    src="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F#gh-dark-mode-only"
+    alt="Top Languages - Dark"
+    width="49%">
+</a>
 
- </td>
-
-<!-- Top Languages -->
- <td width="50%" align="center">
-
-  <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;bg_color=0A101F">
-
-  <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=0891B2&amp;text_color=475569&amp;bg_color=FFFFFF">
-
+<!-- Light Mode -->
+<a href="https://github.com/prathameshsarange#gh-light-mode-only">
   <img
-            src="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=0891B2&amp;text_color=475569&amp;bg_color=FFFFFF"
-            alt="Top Languages"
-            width="100%">
-        </picture>
+    src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF#gh-light-mode-only"
+    alt="GitHub Stats - Light"
+    width="49%">
+</a>
 
-  </td>
-
-  </tr>
-  </table>
+<a href="https://github.com/prathameshsarange#gh-light-mode-only">
+  <img
+    src="https://github-readme-stats-prathamesh-247c.vercel.app/api/top-langs/?username=prathameshsarange&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=475569&bg_color=FFFFFF#gh-light-mode-only"
+    alt="Top Languages - Light"
+    width="49%">
+</a>
 
 </div>
