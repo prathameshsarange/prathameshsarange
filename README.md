@@ -82,15 +82,16 @@
 
 <br />
 
-<!-- Total Contributions - Dynamic -->
+<!-- Total Contributions -->
 <div align="center">
 
-  <a href="https://github.com/prathameshsarange">
-    <img
-      src="YOUR_CONTRIBUTION_API_URL"
-      alt="Total GitHub Contributions"
-    />
-  </a>
+  <h3>📊 Total GitHub Contributions</h3>
+
+  <img
+    src="https://github-contributions-api.deno.dev/prathameshsarange.svg"
+    alt="Prathamesh Sarange's GitHub Contributions"
+    width="100%"
+  />
 
 </div>
 
