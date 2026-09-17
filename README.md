@@ -17,6 +17,11 @@
 
 </div>
 
+<!-- Profile View Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathameshsarange&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views" />
+</div>
+
 <br />
 
 
@@ -59,7 +64,7 @@
       srcset="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF"
     />
     <img
-     src="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=10B981&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0891B2&card_width=1180&v=20260917"
+      src="https://github-readme-stats-prathamesh-247c.vercel.app/api?username=prathameshsarange&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF"
       alt="GitHub Stats"
       width="49%"
     />
@@ -85,6 +90,52 @@
 
 <br />
 
+<!-- Summary Cards -->
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshsarange&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshsarange&theme=default"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshsarange&theme=default"
+      alt="Profile Summary"
+      width="100%"
+    />
+  </picture>
+
+</div>
+
+<br />
+
+<!-- Trophies -->
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=prathameshsarange&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-trophy.vercel.app/?username=prathameshsarange&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
+    />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=prathameshsarange&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
+      alt="Trophies"
+      width="100%"
+    />
+  </picture>
+
+</div>
+
+<br />
+
 <!-- Contribution Snake -->
 <div align="center">
 
@@ -101,6 +152,28 @@
       src="https://raw.githubusercontent.com/prathameshsarange/prathameshsarange/output/github-snake.svg"
       alt="Snake eating my contributions"
       width="100%"
+    />
+  </picture>
+
+</div>
+
+<br />
+
+<!-- Dev Quote -->
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+    />
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+      alt="Dev Quote"
     />
   </picture>
 
