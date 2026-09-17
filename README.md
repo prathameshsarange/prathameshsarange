@@ -113,29 +113,6 @@
 
 <br />
 
-<!-- Trophies -->
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=prathameshsarange&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=prathameshsarange&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
-    />
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=prathameshsarange&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
-      alt="Trophies"
-      width="100%"
-    />
-  </picture>
-
-</div>
-
-<br />
-
 <!-- Contribution Snake -->
 <div align="center">
 
