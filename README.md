@@ -22,22 +22,27 @@
 <!-- GitHub Streak -->
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=10B981&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0891B2&card_width=1180"
-    />
+  
+<picture>
+  <!-- Dark Mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE"
+  />
 
-<img
-  src="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=10B981&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0891B2&card_width=1180&v=20260917"
-  alt="GitHub Streak"
-  width="100%"
-/>
-  </picture>
+  <!-- Light Mode -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=10B981&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0891B2"
+  />
+
+  <!-- Fallback -->
+  <img
+    src="https://streak-stats.demolab.com/?user=prathameshsarange&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=10B981&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0891B2"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</picture>
 
 </div>
 
