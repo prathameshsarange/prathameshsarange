@@ -25,28 +25,19 @@
 <br />
 ---
 
-## 👋 Hi, I'm Prathamesh
-
-I'm a Computer Science Engineering student and aspiring Data Scientist / Full-Stack Developer broadcasting from Maharashtra, India 🇮🇳. 
-I build data-driven backend architectures and AI-powered applications, turning raw data into meaningful, user-friendly insights.
-
-- 🎓 **Currently studying:** B.Tech in CSE at Sipna College of Engineering and Technology.
-- 🧠 **Obsessed with:** Machine Learning, AI Agents, and scalable backend systems. If it involves Python, Data Pipelines, or the Gemini API, I'm in.
-- 🚀 **What I'm building:** Real-world tools like **DataPilot AI** (an AI-powered data analysis tool) and **Sentix** (an NLP-based YouTube Sentiment Analyzer).
-- 🌱 **My mission:** To bridge the gap between complex machine learning models and clean, efficient web interfaces.
-- 💬 **Talk to me about:** Python, Flask/Django, React, or predicting the next big AI trend.
-
-<br>
-
+<!-- Tech Stack & Tools Section -->
 <div align="center">
 
-## 🛠️ My Tech Stack
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mysql,flask,django,git,github,vscode&perline=6" alt="tech stack">
+  <h2>🛠️ My Tech Stack & Tools</h2>
+  
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mysql,flask,django,androidstudio,git,github,vscode&perline=7" alt="Tech Stack" />
+  
+  <br /><br />
+  
+  <p>⚡ <b>Supercharged Workflow:</b> Cursor IDE • Android Studio • AI Dev Tools</p>
 
 </div>
-
----
+<br />
 
 
 <!-- GitHub Streak -->
