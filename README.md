@@ -25,19 +25,72 @@
 <br />
 ---
 
-<!-- Tech Stack & Tools Section -->
-<div align="center">
+---
 
-  <h2>🛠️ My Tech Stack & Tools</h2>
-  
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mysql,flask,django,androidstudio,git,github,vscode&perline=7" alt="Tech Stack" />
-  
-  <br /><br />
-  
-  <p>⚡ <b>Supercharged Workflow:</b> Cursor IDE • Android Studio • AI Dev Tools</p>
+## 👨‍💻 About Me
 
-</div>
-<br />
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🎓 <b>Computer Science Student</b> building robust software architectures at Sipna College of Engineering & Tech.</li>
+        <li>🧠 <b>Core Focus:</b> Integrating <b>Machine Learning & Data Science</b> with Full-Stack Web Development.</li>
+        <li>🚀 <b>Currently Building:</b> <i>CareerPilot AI</i> and highly scalable backend APIs.</li>
+        <li>⚡ <b>Workflow:</b> Supercharged development using <b>Cursor IDE</b>, Android Studio, and AI tools.</li>
+        <li>🎯 <b>Mission:</b> Transforming raw data into high-performance, user-friendly digital experiences.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Animated Coding Illustration -->
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/prathameshsarange"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/prathameshsarange"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:prathameshsarange@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🚀 Core Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+### ⚙️ Frameworks & Backend
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### 📊 Data Science & AI 
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🛠️ Environment & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github&perline=8" alt="tools" />
+</p>
 
 
 <!-- GitHub Streak -->
