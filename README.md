@@ -27,17 +27,20 @@
 
 ---
 
+---
 ## 👨‍💻 About Me
-
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="65%" valign="top">
+      <h2>👋 Hi, I'm Prathamesh Sarange</h2>
+      <p>I'm a Computer Science Engineering student and an aspiring Data Scientist / Full-Stack Developer broadcasting from Maharashtra, India 🇮🇳.<br>
+      I build data-driven backend architectures and AI-powered applications, turning raw data into meaningful insights.</p>
       <ul>
-        <li>🎓 <b>Computer Science Student</b> building robust software architectures at Sipna College of Engineering & Tech.</li>
-        <li>🧠 <b>Core Focus:</b> Integrating <b>Machine Learning & Data Science</b> with Full-Stack Web Development.</li>
-        <li>🚀 <b>Currently Building:</b> <i>CareerPilot AI</i> and highly scalable backend APIs.</li>
-        <li>⚡ <b>Workflow:</b> Supercharged development using <b>Cursor IDE</b>, Android Studio, and AI tools.</li>
-        <li>🎯 <b>Mission:</b> Transforming raw data into high-performance, user-friendly digital experiences.</li>
+        <li>🎓 <b>Currently studying:</b> B.Tech in Computer Science & Engineering at Sipna College of Engineering and Technology.</li>
+        <li>🧠 <b>Obsessed with:</b> Backend development (Flask, Django, Express) and Data Science (Pandas, NumPy, scikit-learn).</li>
+        <li>🚀 <b>What I'm building:</b> Real-world tools like <b>CareerPilot AI</b> (integrating the Google Gemini API) and a <b>YouTube Comment Sentiment Analyzer</b>.</li>
+        <li>⚡ <b>Workflow & Tools:</b> Coding at lightspeed using <b>Cursor IDE</b>, <b>Android Studio</b>, and leveraging various <b>AI tools</b> for rapid development.</li>
+        <li>🌱 <b>My mission:</b> To bridge the gap between complex machine learning models and clean, scalable web interfaces.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -46,6 +49,7 @@
   </tr>
 </table>
 
+---
 ## 💻 Tech Stack & Tools
 
 ### 🚀 Core Languages
