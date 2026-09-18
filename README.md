@@ -23,15 +23,10 @@
 </div>
 
 <br />
----
-
----
-
----
 ## 👨‍💻 About Me
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    ---
+
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -54,7 +49,7 @@
   </tr>
 </table>
 
----
+
 ## 💻 Tech Stack & Tools
 
 ### 🚀 Core Languages
