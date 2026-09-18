@@ -31,9 +31,13 @@
 ## 👨‍💻 About Me
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
+    ---
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
     <td width="65%" valign="top">
       <h2>👋 Hi, I'm Prathamesh Sarange</h2>
-      <p>I'm a Computer Science Engineering student and an aspiring Data Scientist / Full-Stack Developer broadcasting from Maharashtra, India 🇮🇳.<br>
+      <p>I'm a Computer Science Engineering student and an aspiring Data Scientist / Python Developer.<br>
       I build data-driven backend architectures and AI-powered applications, turning raw data into meaningful insights.</p>
       <ul>
         <li>🎓 <b>Currently studying:</b> B.Tech in Computer Science & Engineering at Sipna College of Engineering and Technology.</li>
@@ -43,6 +47,14 @@
         <li>🌱 <b>My mission:</b> To bridge the gap between complex machine learning models and clean, scalable web interfaces.</li>
       </ul>
     </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Animated Coding Illustration -->
+      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
+
+---
     <td width="35%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280" alt="Coding Animation">
     </td>
