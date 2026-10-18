@@ -19,7 +19,7 @@
 
 <!-- Profile View Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathameshsarange&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=prathameshsarange&label=Profile%20Views&color=22D3EE&style=flat-square&v=2" alt="Profile Views" />
 </div>
 
 <br />
